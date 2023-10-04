@@ -1,4 +1,5 @@
 <?php
+///Jobayed Rana
 class Product{
     private $id;
     private $name;
@@ -27,28 +28,6 @@ class Product{
 }
 $productDetails=new Product(1, 'T-shirt', 19.99);
 $productDetails->showDetails();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
